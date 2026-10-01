@@ -36,23 +36,14 @@ project/
 The file book_recommendation_system.ipynb located in the data set folder is the heart of the project.
 
 ⚙️ Installation & Setup
-
 Clone the repository:
-
 Bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name/codes
-
 Install Dependencies:
-
 Bash
 pip install flask pandas numpy scikit-learn
-
 Run the Application:
-
 Bash
 python app.py
 
-Access the App:
-
-Open your browser and go to http://127.0.0.1:5000/
